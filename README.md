@@ -12,7 +12,7 @@
 
 ### Segundo jogo the maze runner
 
-![Segundo jogo](https://github.com/Thiago-Brito/UFRPE_Lista_De_C/blob/main/imagens/1va-2.png)
+![Segundo jogo](https://github.com/Thiago-Brito/UFRPE_Lista_De_C/blob/main/imagens/1va-3.png)
 
 #### Desmonstração do jogo rodando
 [![Segundo jogo](http://img.youtube.com/vi/PDuf3XmoHKs/0.jpg)](http://www.youtube.com/watch?v=PDuf3XmoHKs "Segundo jogo")
@@ -21,7 +21,7 @@
 
 ### Terceiro jogo batalha naval
 
-![terceiro jogo](https://github.com/Thiago-Brito/UFRPE_Lista_De_C/blob/main/imagens/1va-3.png)
+![terceiro jogo](https://github.com/Thiago-Brito/UFRPE_Lista_De_C/blob/main/imagens/1va-2.png)
 
 #### Desmonstração do jogo rodando
 [![Terceiro jogo](http://img.youtube.com/vi/xHqxn5idXpY/0.jpg)](http://www.youtube.com/watch?v=xHqxn5idXpY "Terceiro jogo")
